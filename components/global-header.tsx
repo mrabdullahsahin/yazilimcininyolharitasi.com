@@ -27,7 +27,7 @@ function DesktopMenuLinks() {
   return (
     <Stack d={['none', 'flex', 'flex']} shouldWrapChildren isInline spacing='15px' alignItems='center' color='gray.50'
            fontSize='15px'>
-      <MenuLink text={'Roadmaps'} link={'/roadmaps'} />
+      <MenuLink text={'Yol Haritaları'} link={'/roadmaps'} />
       <MenuLink text={'Guides'} link={'/guides'} />
       <MenuLink text={'Referanslar'} link={'/referanslar'} />
     </Stack>
