@@ -11,7 +11,6 @@ function NavigationLinks() {
         <Link _hover={{ color: 'white' }} href='/watch'>Videos</Link>
         <Link _hover={{ color: 'white' }} href='/about'>About</Link>
         <Link _hover={{ color: 'white' }} href='/referanslar'>Referanslar</Link>
-        <Link _hover={{ color: 'white' }} href={siteConfig.url.youtube} target='_blank'>YouTube</Link>
       </Stack>
 
       <Stack d={['flex', 'flex', 'none']} color='gray.400' fontWeight={600} spacing={0}>
