@@ -46,7 +46,7 @@ export function Footer() {
             <Text as='span' mx='7px'>by</Text>
             <Link bg='blue.500' px='6px' py='2px' rounded='4px' color='white' fontWeight={600} fontSize='13px'
                   _hover={{ textDecoration: 'none', bg: 'blue.600' }} href={siteConfig.url.twitter}
-                  target='_blank'>@kamranahmedse</Link>
+                  target='_blank'>@mrabdullahsahin</Link>
           </Flex>
 
           <Text my='15px' fontSize='14px' color='gray.500'>Community created roadmaps, articles, resources and
