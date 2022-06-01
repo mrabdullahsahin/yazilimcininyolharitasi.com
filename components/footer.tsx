@@ -52,7 +52,7 @@ export function Footer() {
           <Text my='15px' fontSize='14px' color='gray.500'>Yolunuzu seçmenize ve kariyerinizde ilerlemenize yardımcı olmak için topluluk tarafından oluşturulan yol haritaları, makaleler, kaynaklar, kılavuzlar ve içerikler.</Text>
 
           <Text fontSize='14px' color='gray.500'>
-            <Text as='span' mr='10px'>&copy; roadmap.sh</Text>&middot;
+            <Text as='span' mr='10px'>&copy; yazilimcininyolharitasi.com</Text>&middot;
             <Link href='/about' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'
                   mx='10px'>FAQs</Link>&middot;
             <Link href='/terms' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'
