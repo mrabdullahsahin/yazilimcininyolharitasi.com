@@ -49,8 +49,7 @@ export function Footer() {
                   target='_blank'>@mrabdullahsahin</Link>
           </Flex>
 
-          <Text my='15px' fontSize='14px' color='gray.500'>Community created roadmaps, articles, resources and
-            journeys to help you choose your path and grow in your career.</Text>
+          <Text my='15px' fontSize='14px' color='gray.500'>Yolunuzu seçmenize ve kariyerinizde ilerlemenize yardımcı olmak için topluluk tarafından oluşturulan yol haritaları, makaleler, kaynaklar, kılavuzlar ve içerikler.</Text>
 
           <Text fontSize='14px' color='gray.500'>
             <Text as='span' mr='10px'>&copy; roadmap.sh</Text>&middot;
