@@ -54,7 +54,7 @@ export function Footer() {
           <Text fontSize='14px' color='gray.500'>
             <Text as='span' mr='10px'>&copy; yazilimcininyolharitasi.com</Text>&middot;
             <Link href='/about' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'
-                  mx='10px'>FAQs</Link>&middot;
+                  mx='10px'>SSO</Link>&middot;
             <Link href='/terms' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'
                   mx='10px'>Terms</Link>&middot;
             <Link href='/privacy' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'
