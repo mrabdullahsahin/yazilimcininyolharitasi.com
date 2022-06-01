@@ -51,11 +51,9 @@ export default function Home(props: HomeProps) {
               <Text as='cite'>Tek olan yaratıcının adıyla</Text>
               <br />
               <Text fontWeight={500} as="span">
-                roadmap.sh
+                yazilimcininyolharitasi.com
               </Text>{' '}
-              is a community effort to create roadmaps, guides and other
-              educational content to help guide the developers in picking up the
-              path and guide their learnings.
+              yazılım dünyasında kendini geliştirmek isteyen, nereden başlayacağına karar veremeyenlere yol haritalarını seçmelerine ve öğrenmelerine rehberlik etmeye yardımcı olmak için yol haritaları, kılavuzlar, araçlar ve diğer eğitim içeriklerini oluşturmaya yönelik açık kaynaklı bir projedir.
             </Text>
 
             <Text fontSize={['14px', '14px', '16px']}>
