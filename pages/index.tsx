@@ -48,6 +48,8 @@ export default function Home(props: HomeProps) {
               Hey there! 👋
             </Heading>
             <Text fontSize={['14px', '14px', '16px']} mb="10px">
+              <Text as='cite'>Tek olan yaratıcının adıyla</Text>
+              <br />
               <Text fontWeight={500} as="span">
                 roadmap.sh
               </Text>{' '}
