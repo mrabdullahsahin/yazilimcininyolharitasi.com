@@ -45,7 +45,7 @@ export default function Home(props: HomeProps) {
               fontSize={['22px', '22px', '28px']}
               mb={['8px', '8px', '15px']}
             >
-              Hey there! 👋
+              Merhaba! 👋
             </Heading>
             <Text fontSize={['14px', '14px', '16px']} mb="10px">
               <Text as='cite'>Tek olan yaratıcının adıyla</Text>
