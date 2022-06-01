@@ -58,7 +58,7 @@ export function Footer() {
             <Link href='/terms' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'
                   mx='10px'>Kullanım Şartları</Link>&middot;
             <Link href='/privacy' _hover={{ textDecoration: 'none', color: 'white' }} color='gray.400'
-                  mx='10px'>Privacy</Link>
+                  mx='10px'>Gizlilik Sözleşmesi</Link>
           </Text>
         </Box>
       </Container>
