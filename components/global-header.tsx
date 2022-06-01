@@ -29,7 +29,6 @@ function DesktopMenuLinks() {
            fontSize='15px'>
       <MenuLink text={'Roadmaps'} link={'/roadmaps'} />
       <MenuLink text={'Guides'} link={'/guides'} />
-      <MenuLink text={'Videos'} link={'/watch'} />
       <MenuLink text={'Referanslar'} link={'/referanslar'} />
 
       <Link ml='10px' bgGradient='linear(to-l, yellow.700, red.600)' p='7px 10px' rounded='4px'
