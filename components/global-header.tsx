@@ -69,11 +69,9 @@ function MobileMenuLinks() {
                spacing='12px'
                zIndex={999}
         >
-          <Link href='/roadmaps'>Roadmaps</Link>
-          <Link href='/guides'>Guides</Link>
-          <Link href='/watch'>Videos</Link>
-          <Link href='/thanks'>Thanks</Link>
-          <Link href='/signup'>Subscribe</Link>
+          <Link href='/roadmaps'>Yol Haritaları</Link>
+          <Link href='/guides'>Kılavuzlar</Link>
+          <Link href='/referanslar'>Referanslar</Link>
           <CloseButton onClick={() => setIsOpen(false)} pos='fixed' top='40px' right='15px' size='lg' />
         </Stack>
       )}
