@@ -55,26 +55,6 @@ export default function Home(props: HomeProps) {
               </Text>{' '}
               yazılım dünyasında kendini geliştirmek isteyen, nereden başlayacağına karar veremeyenlere yol haritalarını seçmelerine ve öğrenmelerine rehberlik etmeye yardımcı olmak için yol haritaları, kılavuzlar, araçlar ve diğer eğitim içeriklerini oluşturmaya yönelik açık kaynaklı bir projedir.
             </Text>
-
-            <Text fontSize={['14px', '14px', '16px']}>
-              We also have a{' '}
-              <Link
-                textDecoration={'underline'}
-                href={siteConfig.url.youtube}
-                onClick={() =>
-                  event({
-                    category: 'Subscription',
-                    action: 'Clicked the YouTube link',
-                    label: 'YouTube link on home',
-                  })
-                }
-                target="_blank"
-                fontWeight={600}
-              >
-                YouTube channel
-              </Link>{' '}
-              which we hope you are going to love.
-            </Text>
           </Box>
           <SimpleGrid columns={[1, 2, 3]} spacing={['10px', '10px', '15px']}>
             {roadmaps.map((roadmap: RoadmapType, counter: number) => (
