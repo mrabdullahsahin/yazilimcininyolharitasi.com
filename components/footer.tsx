@@ -6,7 +6,7 @@ function NavigationLinks() {
   return (
     <>
       <Stack isInline d={['none', 'none', 'flex']} color='gray.400' fontWeight={600} spacing='30px'>
-        <Link _hover={{ color: 'white' }} href='/roadmaps'>Roadmaps</Link>
+        <Link _hover={{ color: 'white' }} href='/roadmaps'>Yol Haritaları</Link>
         <Link _hover={{ color: 'white' }} href='/guides'>Kılavuzlar</Link>
         <Link _hover={{ color: 'white' }} href='/about'>Hakkında</Link>
         <Link _hover={{ color: 'white' }} href='/referanslar'>Referanslar</Link>
