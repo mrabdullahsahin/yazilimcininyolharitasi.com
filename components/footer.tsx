@@ -41,7 +41,7 @@ export function Footer() {
             <Link d='flex' alignItems='center' fontWeight={600} _hover={{ textDecoration: 'none', color: 'white' }}
                   href='/'>
               <Image alt='' h='25px' w='25px' src='/logo.svg' mr='6px' />
-              roadmap.sh
+              yazilimcininyolharitasi.com
             </Link>
             <Text as='span' mx='7px'>by</Text>
             <Link bg='blue.500' px='6px' py='2px' rounded='4px' color='white' fontWeight={600} fontSize='13px'
