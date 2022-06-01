@@ -30,7 +30,7 @@ function DesktopMenuLinks() {
       <MenuLink text={'Roadmaps'} link={'/roadmaps'} />
       <MenuLink text={'Guides'} link={'/guides'} />
       <MenuLink text={'Videos'} link={'/watch'} />
-      <MenuLink text={'Thanks'} link={'/thanks'} />
+      <MenuLink text={'Referanslar'} link={'/referanslar'} />
 
       <Link ml='10px' bgGradient='linear(to-l, yellow.700, red.600)' p='7px 10px' rounded='4px'
             _hover={{ textDecoration: 'none', bgGradient: 'linear(to-l, red.800, yellow.700)' }}
