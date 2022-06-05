@@ -12,4 +12,5 @@ HTML stands for HyperText Markup Language. It is used on the frontend and gives 
 <BadgeLink badgeText='Ders' colorScheme='green' href='https://app.patika.dev/courses/html/?ref=yazilimcininyolharitasi.com'>HTML - Patika</BadgeLink>
 <BadgeLink badgeText='Ders' colorScheme='green' href='https://gelecegiyazanlar.turkcell.com.tr/konu/egitim/101-html/htmle-giris/?ref=yazilimcininyolharitasi.com'>Web Programlama 101 - Turkcell Geleceği Yazanlar</BadgeLink>
 <BadgeLink badgeText='Ders' colorScheme='green' href='https://www.youtube.com/playlist?list=PLkDTLUcoIKU2iOY4L0_KRIkG7Bi3ZD9NL'>A'dan Z'ye HTML Dersleri - Fikret Çevik</BadgeLink>
-<BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.youtube.com/playlist?list=PLkDTLUcoIKU2iOY4L0_KRIkG7Bi3ZD9NL'>HEAD - Mehmet Kamil Morçay</BadgeLink>
+<BadgeLink badgeText='Oku' colorScheme='yellow' href='https://github.com/mkg0/HEAD/?ref=yazilimcininyolharitasi.com'>HEAD - Mehmet Kamil Morçay</BadgeLink>
+<BadgeLink badgeText='Oku' colorScheme='yellow' href='https://github.com/eraycetinay/Front-End-Checklist/?ref=yazilimcininyolharitasi.com'>Front-end Checklist - Eray Çetinay</BadgeLink>

@@ -8,5 +8,5 @@ Semantic element clearly describes its meaning to both the browser and the devel
 
 <ResourceGroupTitle>Türkçe Kaynaklar</ResourceGroupTitle>
 <BadgeLink badgeText='İzle' colorScheme='green' href='https://www.youtube.com/watch?v=L-nMnaU_erA/?ref=yazilimcininyolharitasi.com'>HTML 5 Semantic Elements - Anlamsal Etiketler (HTML - CSS)(20. Ders) - Fatih Kaan Açıkgöz</BadgeLink>
-<BadgeLink badgeText='Read' colorScheme='yellow' href='https://www.yusufsezer.com.tr/html5-semantik-etiketler/?ref=yazilimcininyolharitasi.com'>HTML5 Semantik Etiketler - Yusuf Sezer</BadgeLink>
+<BadgeLink badgeText='Oku' colorScheme='yellow' href='https://www.yusufsezer.com.tr/html5-semantik-etiketler/?ref=yazilimcininyolharitasi.com'>HTML5 Semantik Etiketler - Yusuf Sezer</BadgeLink>
 <BadgeLink badgeText='İzle' colorScheme='green' href='https://app.patika.dev/courses/html/semanticanlamlandirilmis-html-etiketleri-kullanimi/?ref=yazilimcininyolharitasi.com'>Semantic(Anlamlandırılmış) HTML Etiketleri Kullanımı - Patika</BadgeLink>
