@@ -3,9 +3,6 @@
 HTTP is the `TCP/IP` based application layer communication protocol which standardizes how the client and server communicate with each other. It defines how the content is requested and transmitted across the internet.
 
 <ResourceGroupTitle>İngilizce Kaynaklar</ResourceGroupTitle>
-
-*Ücretsiz Kaynaklar*
-
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/'>What is HTTP?</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview'>An overview of HTTP</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://kamranahmed.info/blog/2016/08/13/http-in-depth/'>Journey to HTTP/2</BadgeLink>
@@ -13,9 +10,6 @@ HTTP is the `TCP/IP` based application layer communication protocol which standa
 <BadgeLink badgeText='Watch' href='https://www.youtube.com/watch?v=iYM2zFP3Zn0'>HTTP Crash Course & Exploration</BadgeLink>
 
 <ResourceGroupTitle>Türkçe Kaynaklar</ResourceGroupTitle>
-
-*Ücretsiz Kaynaklar*
-
 <BadgeLink badgeText='Oku' href='https://www.dijitalzade.com/http-hyper-text-transfer-protocol/?ref=yazilimcininyolharitasi.com'>HTTP (Hypertext Transfer Protocol) Nedir? Nasıl Çalışır? - Dijitalzade</BadgeLink>
 <BadgeLink badgeText='Oku' href='https://tr.wikipedia.org/wiki/HTTP/?ref=yazilimcininyolharitasi.com'>HTTP - Vikipedi</BadgeLink>
 <BadgeLink badgeText='Oku' href='https://halilsafakkilic.com/http/?ref=yazilimcininyolharitasi.com'>HTTP Nedir? - Halil Şafak Kılıç</BadgeLink>
