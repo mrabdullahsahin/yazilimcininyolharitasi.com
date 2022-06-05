@@ -9,4 +9,4 @@ JavaScript allows you to add interactivity to your pages. Common examples that y
 <BadgeLink badgeText='Watch' href='https://youtu.be/P7t13SGytRk?t=22'>Build a Netflix Landing Page Clone with HTML, CSS & JS</BadgeLink>
 
 <ResourceGroupTitle>Türkçe Kaynaklar</ResourceGroupTitle>
-<BadgeLink badgeText='Ders' colorScheme="green" href='https://www.youtube.com/playlist?list=PLkDTLUcoIKU39CGxyDVyGbqkmL3LwQRzB/?ref=yazilimcininyolharitasi.com'>JavaScript Temel Seviye Dersler - Fikret Çevik</BadgeLink>
+<BadgeLink badgeText='Ders' colorScheme="green" href='https://www.youtube.com/playlist?list=PLkDTLUcoIKU39CGxyDVyGbqkmL3LwQRzB'>JavaScript Temel Seviye Dersler - Fikret Çevik</BadgeLink>
