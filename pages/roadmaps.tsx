@@ -1,7 +1,6 @@
 import { Box, Container, SimpleGrid } from '@chakra-ui/react';
 import { GlobalHeader } from '../components/global-header';
 import { OpensourceBanner } from '../components/opensource-banner';
-import { UpdatesBanner } from '../components/updates-banner';
 import { Footer } from '../components/footer';
 import { PageHeader } from '../components/page-header';
 import { RoadmapGridItem } from '../components/roadmap/roadmap-grid-item';
@@ -20,14 +19,14 @@ export default function Roadmaps(props: RoadmapsProps) {
     <Box bg='white' minH='100vh'>
       <GlobalHeader />
       <Helmet
-        title={'Developer Roadmaps'}
-        description={'Step by step guides and paths to learn different tools or technologies'}
+        title={'Yazılımcının Yol Haritaları'}
+        description={'Farklı yazılım araçlarını ve teknolojilerini öğrenmek için gerekli olan adım adım kılavuzlar ve yol haritaları'}
       />
       <Box mb='60px'>
         <PageHeader
           beforeTitle={<NewAlertBanner />}
-          title={'Developer Roadmaps'}
-          subtitle={'Step by step guides and paths to learn different tools or technologies'}
+          title={'Yazılımcının Yol Haritaları'}
+          subtitle={'Farklı yazılım araçlarını ve teknolojilerini öğrenmek için gerekli olan adım adım kılavuzlar ve yol haritaları'}
         />
         <Container maxW='container.md' position='relative'>
           <SimpleGrid columns={[1, 1, 2, 2]} mb='30px' spacing={['10px', '10px', '15px']}>
@@ -45,9 +44,7 @@ export default function Roadmaps(props: RoadmapsProps) {
           </SimpleGrid>
         </Container>
       </Box>
-
       <OpensourceBanner />
-      <UpdatesBanner />
       <Footer />
     </Box>
   );
