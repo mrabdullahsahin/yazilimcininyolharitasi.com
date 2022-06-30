@@ -1,6 +1,5 @@
 import { Box, Container, Flex, Image, Link, Stack, Text } from '@chakra-ui/react';
 import siteConfig from '../content/site.json';
-import { CustomAd } from './custom-ad';
 
 function NavigationLinks() {
   return (
