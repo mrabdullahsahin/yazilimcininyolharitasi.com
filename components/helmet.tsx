@@ -17,12 +17,12 @@ function getRichSnippetJson(roadmap: RoadmapType) {
     '@type': 'Article',
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://roadmap.sh/${roadmap.id}`,
+      '@id': `https://yazilimcininyolharitasi.com/${roadmap.id}`,
     },
     headline: roadmap.seo.title,
     description: roadmap.seo.description,
     image: roadmap.jsonUrl
-      ? `https://roadmap.sh/roadmaps/${roadmap.id}.png`
+      ? `https://yazilimcininyolharitasi.com/roadmaps/${roadmap.id}.png`
       : undefined,
     author: {
       '@type': 'Person',
