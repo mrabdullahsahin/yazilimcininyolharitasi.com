@@ -2,7 +2,6 @@ import React from 'react';
 import { Box, Container } from '@chakra-ui/react';
 import { GlobalHeader } from '../components/global-header';
 import { OpensourceBanner } from '../components/opensource-banner';
-import { UpdatesBanner } from '../components/updates-banner';
 import { Footer } from '../components/footer';
 import MdRenderer from '../components/md-renderer';
 import Helmet from '../components/helmet';
@@ -13,7 +12,7 @@ export default function Privacy() {
   return (
     <Box bg='gray.50' minH='100vh'>
       <GlobalHeader />
-      <Helmet  title={'Privacy Policy - roadmap.sh'} />
+      <Helmet  title={'Gizlilik Sözleşmesi - Yazılımcının Yol Haritası'} />
       <Box mb='60px'>
         <Container maxW={'container.md'} position='relative'>
           <MdRenderer>
@@ -23,7 +22,6 @@ export default function Privacy() {
       </Box>
 
       <OpensourceBanner />
-      <UpdatesBanner />
       <Footer />
     </Box>
   );
