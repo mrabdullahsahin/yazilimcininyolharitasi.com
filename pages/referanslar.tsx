@@ -22,7 +22,7 @@ export default function Thanks() {
   return (
     <Box bg='gray.50' minH='100vh'>
       <GlobalHeader />
-      <Helmet title={'Thanks to Sponsors'} />
+      <Helmet title={'Referanslar - Yazılımcının Yol Haritası'} />
       <Box mb='60px'>
         <Container maxW={'container.sm'} position='relative'>
           <Box mt='60px'>
