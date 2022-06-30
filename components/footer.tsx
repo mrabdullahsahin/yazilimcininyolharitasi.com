@@ -14,17 +14,13 @@ function NavigationLinks() {
 
       <Stack d={['flex', 'flex', 'none']} color='gray.400' fontWeight={600} spacing={0}>
         <Link py='7px' borderBottomWidth={1} borderBottomColor='gray.800' _hover={{ color: 'white' }}
-              href='/roadmaps'>Roadmaps</Link>
+              href='/roadmaps'>Yol Haritaları</Link>
         <Link py='7px' borderBottomWidth={1} borderBottomColor='gray.800' _hover={{ color: 'white' }}
-              href='/guides'>Guides</Link>
+              href='/guides'>Kılavuzlar</Link>
         <Link py='7px' borderBottomWidth={1} borderBottomColor='gray.800' _hover={{ color: 'white' }}
-              href='/watch'>Videos</Link>
+              href='/referanslar'>Referanslar</Link>
         <Link py='7px' borderBottomWidth={1} borderBottomColor='gray.800' _hover={{ color: 'white' }}
-              href='/thanks'>Thanks</Link>
-        <Link py='7px' borderBottomWidth={1} borderBottomColor='gray.800' _hover={{ color: 'white' }}
-              href='/about'>About</Link>
-        <Link py='7px' _hover={{ color: 'white' }} target='_blank'
-              href={siteConfig.url.youtube}>YouTube</Link>
+              href='/about'>Hakkında</Link>
       </Stack>
     </>
   );
