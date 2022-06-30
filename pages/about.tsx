@@ -13,7 +13,7 @@ function AboutHeader() {
          position='static'
          top='10px'>
       <Helmet
-        title={'About roadmap.sh'}
+        title={'Hakkında - Yazılımcının Yol Haritası'}
       />
       <Container maxW='container.md' position='relative' textAlign='left'>
         <Flex alignItems='center'>
