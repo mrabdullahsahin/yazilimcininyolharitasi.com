@@ -29,7 +29,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
       mb="30px"
     >
       <Container maxW="container.md" position="relative">
-        <NewAlertBanner />
+        
         <Heading
           as="h1"
           color="black"
@@ -55,7 +55,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
             >
               &larr;
               <Text as="span" d={['none', 'inline']} ml="5px">
-                All Roadmaps
+                Bütün Yol Haritaları
               </Text>
             </Button>
 
@@ -72,7 +72,7 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
                 variant="solid"
                 _hover={{ textDecoration: 'none' }}
               >
-                Download
+                İndir
               </Button>
             )}
             <Button
@@ -102,9 +102,9 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
             rounded="3px"
           >
             <Badge pos="relative" top={'-1px'} mr="6px" colorScheme="yellow">
-              New
+              Yeni
             </Badge>
-            Resources are here, try clicking any nodes.
+            Kaynaklar burada, herhangi bir düğümü tıklamayı deneyin.
           </Text>
         )}
       </Container>
