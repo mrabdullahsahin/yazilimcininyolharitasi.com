@@ -153,7 +153,6 @@ export default function InteractiveRoadmap(props: RoadmapProps) {
       </Box>
 
       <OpensourceBanner />
-      <UpdatesBanner />
       <Footer />
     </Box>
   );

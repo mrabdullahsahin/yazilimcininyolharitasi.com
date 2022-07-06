@@ -72,7 +72,6 @@ export default function Roadmap(props: RoadmapProps) {
       </Box>
 
       <OpensourceBanner />
-      <UpdatesBanner />
       <Footer />
     </Box>
   );

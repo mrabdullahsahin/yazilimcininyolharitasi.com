@@ -245,7 +245,6 @@ export default function Thanks() {
         </Container>
       </Box>
       <OpensourceBanner />
-      <UpdatesBanner />
       <Footer />
     </Box>
   );

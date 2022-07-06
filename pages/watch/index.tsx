@@ -44,7 +44,6 @@ export default function Watch(props: VideosProps) {
       </Box>
 
       <OpensourceBanner />
-      <UpdatesBanner />
       <Footer />
     </Box>
   );

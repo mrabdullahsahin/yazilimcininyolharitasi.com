@@ -23,7 +23,6 @@ export default function Terms() {
       </Box>
 
       <OpensourceBanner />
-      <UpdatesBanner />
       <Footer />
     </Box>
   );

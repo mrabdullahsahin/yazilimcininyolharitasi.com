@@ -99,7 +99,6 @@ export default function SignUp() {
       </Box>
 
       <OpensourceBanner />
-      <UpdatesBanner />
       <Footer />
     </Box>
   );

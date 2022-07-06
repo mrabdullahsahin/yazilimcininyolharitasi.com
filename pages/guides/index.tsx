@@ -62,7 +62,6 @@ export default function Guides(props: GuidesProps) {
       </Box>
 
       <OpensourceBanner />
-      <UpdatesBanner />
       <Footer />
     </Box>
   );

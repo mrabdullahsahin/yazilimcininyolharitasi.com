@@ -49,7 +49,6 @@ export default function Video(props: VideoProps) {
       </Box>
 
       <OpensourceBanner />
-      <UpdatesBanner />
       <Footer />
     </Box>
   );

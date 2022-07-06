@@ -114,7 +114,6 @@ export default function RoadmapGroup(props: RoadmapProps) {
       </Container>
 
       <OpensourceBanner />
-      <UpdatesBanner />
       <Footer />
     </Box>
   );

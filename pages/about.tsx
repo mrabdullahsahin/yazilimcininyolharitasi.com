@@ -65,7 +65,6 @@ export default function About() {
       </Box>
 
       <OpensourceBanner />
-      <UpdatesBanner />
       <Footer />
     </Box>
   );
