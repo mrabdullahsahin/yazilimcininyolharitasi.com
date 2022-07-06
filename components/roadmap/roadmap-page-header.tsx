@@ -75,19 +75,6 @@ export function RoadmapPageHeader(props: RoadmapPageHeaderType) {
                 İndir
               </Button>
             )}
-            <Button
-              as={Link}
-              href={'/signup'}
-              size="xs"
-              py="14px"
-              px="10px"
-              variant="solid"
-              colorScheme="yellow"
-              leftIcon={<AtSignIcon />}
-              _hover={{ textDecoration: 'none' }}
-            >
-              Subscribe
-            </Button>
           </Stack>
         </Flex>
         {isInteractiveRoadmap(roadmap.id) && (
