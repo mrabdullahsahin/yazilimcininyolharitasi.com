@@ -68,7 +68,7 @@ export function ContentDrawer(props: ContentDrawerProps) {
                   d={['block', 'none', 'none', 'block']}
                   ml="10px"
                 >
-                  Mark as Done
+                  Tamamlandı
                 </Text>
               </Button>
             )}
@@ -91,7 +91,7 @@ export function ContentDrawer(props: ContentDrawerProps) {
                   d={['block', 'none', 'none', 'block']}
                   ml="10px"
                 >
-                  Mark as Pending
+                  Tamamlanmadı
                 </Text>
               </Button>
             )}
@@ -104,7 +104,7 @@ export function ContentDrawer(props: ContentDrawerProps) {
               size="xs"
             >
               <Text as="span" d={['none', 'none', 'none', 'block']} ml="10px">
-                Close
+                Kapat
               </Text>
             </Button>
           </Flex>
