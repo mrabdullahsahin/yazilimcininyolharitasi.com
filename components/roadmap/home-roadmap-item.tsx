@@ -95,7 +95,7 @@ export function HomeRoadmapItem(props: RoadmapGridItemProps) {
             p={'5px 10px'}
             rounded="10px"
           >
-            Upcoming
+            Çok Yakında
           </Text>
           <Box
             bg={'black'}
