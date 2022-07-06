@@ -80,7 +80,7 @@ export function RoadmapGridItem(props: RoadmapGridItemProps) {
           rounded='10px'
         >
           <Text color='white' bg='yellow.900' zIndex={1} fontWeight={600} p={'5px 10px'}
-                rounded='10px'>Upcoming</Text>
+                rounded='10px'>Çok Yakında</Text>
           <Box bg={'black'} pos='absolute' top={0} left={0} right={0} bottom={0} rounded={'10px'} opacity={0.5} />
         </Flex>
       )}
