@@ -18,9 +18,7 @@ export function EditContentPageLink(props: EditContentPageLinkProps) {
         color="gray.500"
         mb="10px"
       >
-        This page is a work in progress. Help us by writing a small
-        introduction to the topic and suggesting a few links to read more
-        about this topic.
+        Bu sayfa yapım aşamasındadır. Konuya küçük bir giriş yazarak ve bu konu hakkında daha fazla bilgi edinmek için birkaç bağlantı önererek katkıda bulunabilirsiniz.
       </Text>
       <Button
         size="sm"
@@ -32,7 +30,7 @@ export function EditContentPageLink(props: EditContentPageLinkProps) {
         colorScheme={'gray'}
         _hover={{ textDecoration: 'none', bg: 'gray.200' }}
       >
-        Edit this Page
+        Bu sayfaya katkıda bulun
       </Button>
     </Box>
   );
