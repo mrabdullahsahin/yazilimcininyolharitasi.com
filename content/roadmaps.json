@@ -1,8 +1,8 @@
 [
   {
     "seo": {
-      "title": "Frontend Developer Roadmap: Learn to become a modern frontend developer",
-      "description": "Learn to become a modern frontend developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern frontend development.",
+      "title": "Frontend Geliştirici Yol Haritası: Modern bir frontend geliştiricisi olmayı öğrenin",
+      "description": "Bu yol haritasını kullanarak modern bir frontend geliştirici olmayı öğrenin. Modern frontend geliştirme için topluluk odaklı, makaleler, kaynaklar, kılavuzlar, mülakat soruları, testler.",
       "keywords": [
         "javascript roadmap 2022",
         "frontend roadmap 2022",
@@ -28,13 +28,27 @@
         "learn frontend development",
         "what is frontend development",
         "frontend developer quiz",
-        "frontend developer interview questions"
+        "frontend developer interview questions",
+        "frontend için nereden başlamalıyım",
+        "frontend geliştirici nasıl olur",
+        "frontend nedir",
+        "nasıl frontend geliştirici olunur",
+        "frontend geliştiricisi",
+        "frontend geliştiricisi olmak için nereden başlamalıyım",
+        "frontend geliştirisici yol haritası",
+        "frontend geliştiricisi yol haritası 2022",
+        "frontend mühendisi",
+        "frontend yetenekleri",
+        "frontend yol haritası",
+        "frontend mühendisi yol haritası",
+        "frontend geliştiricisi ol",
+        "frontendci ol"
       ]
     },
-    "title": "Frontend Developer",
-    "description": "Step by step guide to becoming a modern frontend developer in 2022",
+    "title": "Frontend Geliştirici",
+    "description": "2022'de modern bir frontend geliştiricisi olmak için adım adım kılavuz",
     "featuredTitle": "Frontend",
-    "featuredDescription": "Step by step guide to becoming a frontend developer in 2022",
+    "featuredDescription": "2022'de modern bir frontend geliştiricisi olmak için adım adım kılavuz",
     "author": {
       "name": "Kamran Ahmed",
       "url": "https://twitter.com/kamranahmedse"
@@ -51,8 +65,8 @@
   },
   {
     "seo": {
-      "title": "Backend Developer Roadmap: Learn to become a modern backend developer",
-      "description": "Learn to become a modern backend developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern backend development.",
+      "title": "Backend Geliştirici Yol Haritası: Modern bir backend geliştiricisi olmayı öğrenin",
+      "description": "Bu yol haritasını kullanarak modern bir backend geliştirici olmayı öğrenin. Modern frontend geliştirme için topluluk odaklı, makaleler, kaynaklar, kılavuzlar, mülakat soruları, testler.",
       "keywords": [
         "backend roadmap 2022",
         "backend developer roadmap 2022",
@@ -77,13 +91,19 @@
         "learn backend development",
         "what is backend development",
         "backend developer quiz",
-        "backend developer interview questions"
+        "backend developer interview questions",
+        "backend geliştiricisi",
+        "backendci ol",
+        "backend mühendisi",
+        "backend yol haritası",
+        "backend nedir",
+        "backend geliştirme"
       ]
     },
-    "title": "Backend Developer",
-    "description": "Step by step guide to becoming a modern backend developer in 2022",
+    "title": "Backend Geliştirici",
+    "description": "2022'de modern bir backend geliştiricisi olmak için adım adım kılavuz",
     "featuredTitle": "Backend",
-    "featuredDescription": "Step by step guide to becoming a backend developer in 2022",
+    "featuredDescription": "2022'de modern bir backend geliştiricisi olmak için adım adım kılavuz",
     "featured": true,
     "imageUrl": "/roadmaps/backend.png",
     "jsonUrl": "/project/backend.json",
@@ -100,8 +120,8 @@
   },
   {
     "seo": {
-      "title": "DevOps Roadmap: Learn to become a DevOps Engineer or SRE",
-      "description": "Community driven, articles, resources, guides, interview questions, quizzes for DevOps. Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in this roadmap.",
+      "title": "DevOps Yol Haritası: DevOps Mühendisi veya SRE olmayı öğrenin",
+      "description": "DevOps için topluluk odaklı, makaleler, kaynaklar, kılavuzlar, mülakat soruları, testler. Bu yol haritasında listelenen adımları, becerileri, kaynakları ve kılavuzları izleyerek modern bir DevOps mühendisi olmayı öğrenin.",
       "keywords": [
         "devops roadmap 2022",
         "sre roadmap 2022",
@@ -120,13 +140,20 @@
         "what is devops",
         "what is sre",
         "devops quiz",
-        "devops interview questions"
+        "devops interview questions",
+        "devops mühendisi",
+        "devops yol haritasi",
+        "devops nedir",
+        "devopscu nasıl olunur",
+        "devops yetenekleri",
+        "sre nedir",
+        "devops mülakat soruları"
       ]
     },
-    "title": "DevOps Roadmap",
-    "description": "Step by step guide for DevOps, SRE or any other Operations Role in 2022",
+    "title": "DevOps Yol Haritası",
+    "description": "2022'de DevOps, SRE veya başka herhangi bir sunucu taraflı Operasyon Rolü için adım adım kılavuz",
     "featuredTitle": "DevOps",
-    "featuredDescription": "Step by step guide for DevOps or operations role in 2022",
+    "featuredDescription": "2022'de DevOps, SRE veya başka herhangi bir sunucu taraflı Operasyon Rolü için adım adım kılavuz",
     "featured": true,
     "imageUrl": "/roadmaps/devops.png",
     "jsonUrl": "/project/devops.json",
@@ -147,8 +174,8 @@
   },
   {
     "seo": {
-      "title": "React Developer Roadmap: Learn to become a React developer",
-      "description": "Community driven, articles, resources, guides, interview questions, quizzes for react development. Learn to become a modern React developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "title": "React Geliştirici Yol Haritası: React geliştiricisi olmayı öğrenin",
+      "description": "React geliştirme için topluluk odaklı, makaleler, kaynaklar, kılavuzlar, mülakat soruları, testler. Bu yol haritasında listelenen adımları, becerileri, kaynakları ve kılavuzları izleyerek modern bir React geliştiricisi olmayı öğrenin.",
       "keywords": [
         "react roadmap 2022",
         "react developer roadmap 2022",
@@ -162,13 +189,19 @@
         "learn react development",
         "what is react",
         "react quiz",
-        "react interview questions"
+        "react interview questions",
+        "react nedir",
+        "react geliştiricisi yol haritası",
+        "react yol haritası",
+        "react öğren",
+        "react geliştiricisi ol",
+        "react geliştiricisi yetenekleri"
       ]
     },
-    "title": "React Developer",
-    "description": "Everything that is there to learn about React and the ecosystem in 2022.",
+    "title": "React Geliştirici",
+    "description": "2022'de React ve ekosistemi hakkında öğrenilecek her şey.",
     "featuredTitle": "React",
-    "featuredDescription": "Step by step guide to become a React Developer in 2022",
+    "featuredDescription": "2022'de React Geliştiricisi olmak için adım adım kılavuz",
     "isTextHeavy": false,
     "isCommunity": false,
     "featured": true,
@@ -191,8 +224,8 @@
   },
   {
     "seo": {
-      "title": "Angular Developer Roadmap: Learn to become a Angular developer",
-      "description": "Community driven, articles, resources, guides, interview questions, quizzes for angular development. Learn to become a modern Angular developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "title": "Angular Geliştirici Yol Haritası: Angular geliştiricisi olmayı öğrenin",
+      "description": "Topluluk odaklı, makaleler, kaynaklar, kılavuzlar, mülakat soruları, agular geliştirme için testler. Bu yol haritasında listelenen adımları, becerileri, kaynakları ve kılavuzları izleyerek modern bir Angular geliştiricisi olmayı öğrenin.",
       "keywords": [
         "guide to becoming a angular developer",
         "angular developer roadmap",
@@ -204,13 +237,17 @@
         "learn angular development",
         "what is angular",
         "angular quiz",
-        "angular interview questions"
+        "angular interview questions",
+        "angular nedir",
+        "angular geliştiricisi",
+        "angular yol haritası",
+        "angular geliştiricisi nasıl olunur"
       ]
     },
-    "title": "Angular Developer",
-    "description": "Everything that is there to learn about Angular and the ecosystem in 2022.",
+    "title": "Angular Geliştirici",
+    "description": "2022'de Angular ve ekosistemi hakkında öğrenilecek her şey.",
     "featuredTitle": "Angular",
-    "featuredDescription": "Step by step guide to become a Angular Developer in 2022",
+    "featuredDescription": "2022'de Angular Geliştiricisi olmak için adım adım kılavuz",
     "isTextHeavy": false,
     "isCommunity": false,
     "featured": true,
@@ -233,8 +270,8 @@
   },
   {
     "seo": {
-      "title": "Android Developer Roadmap: Learn to become an Android developer",
-      "description": "Community driven, articles, resources, guides, interview questions, quizzes for android development. Learn to become a modern Android developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "title": "Android Geliştirici Yol Haritası: Android geliştiricisi olmayı öğrenin",
+      "description": "Android geliştirme için topluluk odaklı, makaleler, kaynaklar, kılavuzlar, röportaj soruları, testler. Bu yol haritasında listelenen adımları, becerileri, kaynakları ve kılavuzları izleyerek modern bir Android geliştiricisi olmayı öğrenin.",
       "keywords": [
         "guide to becoming an android developer",
         "android developer roadmap",
@@ -246,13 +283,20 @@
         "learn android development",
         "what is android",
         "android quiz",
-        "android interview questions"
+        "android interview questions",
+        "android nedir",
+        "android geliştiricisi",
+        "android geliştiricis olmak",
+        "android geliştiricisi nasıl olunur",
+        "kotlin nedir",
+        "kotlin geliştiricisi nasıl olunur",
+        "android geliştiricisi yetenekleri"
       ]
     },
-    "title": "Android Developer",
-    "description": "Step by step guide to becoming an Android developer in 2022",
+    "title": "Android Geliştirici",
+    "description": "2022'de Android geliştiricisi olmak için adım adım kılavuz",
     "featuredTitle": "Android",
-    "featuredDescription": "Step by step guide to becoming an Android Developer in 2022",
+    "featuredDescription": "2022'de Android Geliştiricisi olmak için adım adım kılavuz",
     "isTextHeavy": true,
     "isCommunity": false,
     "featured": true,
@@ -274,8 +318,8 @@
   },
   {
     "seo": {
-      "title": "Learn to become a modern Python developer",
-      "description": "Community driven, articles, resources, guides, interview questions, quizzes for python development. Learn to become a modern Python developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "title": "Modern Python geliştiricisi olmayı öğrenin",
+      "description": "Python ile geliştirme yapmak için topluluk odaklı, makaleler, kaynaklar, kılavuzlar, mülakat soruları, testler. Bu yol haritasında listelenen adımları, becerileri, kaynakları ve kılavuzları izleyerek modern bir Python geliştiricisi olmayı öğrenin.",
       "keywords": [
         "guide to becoming an python developer",
         "python developer roadmap",
@@ -287,13 +331,20 @@
         "learn python development",
         "what is python",
         "python quiz",
-        "python interview questions"
+        "python interview questions",
+        "python nedir",
+        "python nasıl öğrenilir",
+        "python geliştiricisi nasıl olunur",
+        "python yol haritası",
+        "python geliştiricisi için yol haritası",
+        "python yetenekleri",
+        "python geliştiricisi ol"
       ]
     },
-    "title": "Python Developer",
-    "description": "Step by step guide to becoming a Python developer in 2022",
+    "title": "Python Geliştirici",
+    "description": "2022'de Python geliştiricisi olmak için adım adım kılavuz",
     "featuredTitle": "Python",
-    "featuredDescription": "Step by step guide to becoming a Python Developer in 2022",
+    "featuredDescription": "2022'de Python geliştiricisi olmak için adım adım kılavuz",
     "isTextHeavy": true,
     "isCommunity": false,
     "featured": true,
@@ -314,8 +365,8 @@
   },
   {
     "seo": {
-      "title": "Learn to become a Go developer",
-      "description": "Community driven, articles, resources, guides, interview questions, quizzes for Go development. Learn to become a modern Go developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "title": "Go geliştiricisi olmayı öğrenin",
+      "description": "Go ile geliştirme yapabilmek için topluluk odaklı, makaleler, kaynaklar, kılavuzlar, mülakat soruları, testler. Bu yol haritasında listelenen adımları, becerileri, kaynakları ve kılavuzları izleyerek modern Go geliştiricisi olmayı öğrenin.",
       "keywords": [
         "guide to becoming a golang developer",
         "guide to becoming a go developer",
@@ -337,13 +388,22 @@
         "golang quiz",
         "go quiz",
         "golang interview questions",
-        "go interview questions"
+        "go interview questions",
+        "go nedir",
+        "go geliştiricisi nasıl olunur",
+        "golang geliştiricisi",
+        "golang geliştiricisi nasıl olunur",
+        "go yetenekleri",
+        "go yol haritası",
+        "golang yol haritası",
+        "go için yetenekeler",
+        "golang için yetenekler"
       ]
     },
-    "title": "Go Developer",
-    "description": "Step by step guide to becoming a Go developer in 2022",
+    "title": "Go Geliştirici",
+    "description": "2022'de Go geliştiricisi olmak için adım adım kılavuz",
     "featuredTitle": "Go",
-    "featuredDescription": "Step by step guide to becoming a Go developer in 2022",
+    "featuredDescription": "2022'de Go geliştiricisi olmak için adım adım kılavuz",
     "isTextHeavy": false,
     "isCommunity": false,
     "isUpcoming": false,
@@ -366,8 +426,8 @@
   },
   {
     "seo": {
-      "title": "Learn to become a modern Java developer",
-      "description": "Community driven, articles, resources, guides, interview questions, quizzes for java development. Learn to become a modern Java developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "title": "Modern Java geliştiricisi olmayı öğrenin",
+      "description": "Java ile geliştirme yapabilmek için topluluk odaklı, makaleler, kaynaklar, kılavuzlar, mülakat soruları, testler. Bu yol haritasında listelenen adımları, becerileri, kaynakları ve kılavuzları izleyerek modern bir Java geliştiricisi olmayı öğrenin.",
       "keywords": [
         "guide to becoming a developer",
         "guide to becoming a java developer",
@@ -388,13 +448,19 @@
         "become a java developer",
         "java developer career path",
         "java developer",
-        "modern java developer"
+        "modern java developer",
+        "java nedir",
+        "java geliştiricisi",
+        "java geliştiricisi yol haritası",
+        "java yol haritası",
+        "java nasıl öğrenilir",
+        "java yetenekleri"
       ]
     },
-    "title": "Java Developer",
-    "description": "Step by step guide to becoming a Java developer in 2022",
+    "title": "Java Geliştirici",
+    "description": "2022'de Java geliştiricisi olmak için adım adım kılavuz",
     "featuredTitle": "Java",
-    "featuredDescription": "Step by step guide to becoming a Java Developer in 2022",
+    "featuredDescription": "2022'de Java Geliştiricisi olmak için adım adım kılavuz",
     "isTextHeavy": false,
     "isCommunity": false,
     "isUpcoming": false,
@@ -417,8 +483,8 @@
   },
   {
     "seo": {
-      "title": "DBA Roadmap: Learn to become a database administrator with PostgreSQL",
-      "description": "Community driven, articles, resources, guides, interview questions, quizzes for DevOps. Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in this roadmap.",
+      "title": "DBA Yol Haritası: PostgreSQL ile veritabanı yöneticisi olmayı öğrenin",
+      "description": "DBA için topluluk odaklı, makaleler, kaynaklar, kılavuzlar, mülakat soruları, testler. Bu yol haritasında listelenen adımları, becerileri, kaynakları ve kılavuzları izleyerek modern bir DBA mühendisi olmayı öğrenin.",
       "keywords": [
         "guide to becoming a database administrator",
         "guide to becoming a DBA",
@@ -437,13 +503,19 @@
         "learn dba",
         "what is dba",
         "database administrator quiz",
-        "dba interview questions"
+        "dba interview questions",
+        "veritabanı yöneticisi ol",
+        "veritabanı nedir",
+        "veritabanı yöneticisi nasıl olunur",
+        "postgresql öğren",
+        "veritabanı yöneticisi yol haritası",
+        "veritabanı yetenekleri"
       ]
     },
     "title": "PostgreSQL DBA",
-    "description": "Step by step guide to becoming a modern PostgreSQL DB Administrator in 2022",
+    "description": "2022'de modern bir PostgreSQL Veritabanı Yöneticisi olmak için adım adım kılavuz",
     "featuredTitle": "DBA",
-    "featuredDescription": "Step by step guide to become a PostgreSQL DBA in 2022",
+    "featuredDescription": "2022'de PostgreSQL Veritabanı Yöneticisi olmak için adım adım kılavuz",
     "landingPath": "/roadmaps/109-postgresql-dba/landscape.md",
     "resourcesPath": "/roadmaps/109-postgresql-dba/resources.md",
     "author": {
@@ -461,8 +533,8 @@
   },
   {
     "seo": {
-      "title": "AWS Roadmap: Learn to use AWS",
-      "description": "Community driven, articles, resources, guides, interview questions, quizzes for react development. Learn to become a modern React developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "title": "AWS Yol Haritası: AWS'yi kullanmayı öğrenin",
+      "description": "AWS ile geliştirme yapmak için topluluk odaklı, makaleler, kaynaklar, kılavuzlar, mülakat soruları, testler. Bu yol haritasında listelenen adımları, becerileri, kaynakları ve kılavuzları izleyerek modern bir AWS geliştiricisi olmayı öğrenin.",
       "keywords": [
         "guide to aws",
         "aws roadmap",
@@ -472,13 +544,18 @@
         "cloud development",
         "what is aws",
         "aws quiz",
-        "aws interview questions"
+        "aws interview questions",
+        "aws nedir",
+        "aws yol haritası",
+        "bulut geliştirme",
+        "bulut geliştiricisi ol",
+        "aws geliştiricisi ol"
       ]
     },
     "title": "AWS",
-    "description": "Everything that is there to learn about AWS and the ecosystem in 2022.",
+    "description": "2022'de AWS ve ekosistemi hakkında öğrenilecek her şey.",
     "featuredTitle": "AWS",
-    "featuredDescription": "Step by step guide to learn AWS in 2022",
+    "featuredDescription": "2022'de AWS'yi öğrenmek için adım adım kılavuz",
     "isTextHeavy": false,
     "isCommunity": false,
     "isUpcoming": true,
@@ -499,8 +576,8 @@
   },
   {
     "seo": {
-      "title": "QA Roadmap: Learn to become a modern QA engineer",
-      "description": "Community driven, articles, resources, guides, interview questions, quizzes for modern QA development. Learn to become a modern QA engineer by following the steps, skills, resources and guides listed in this roadmap.",
+      "title": "QA Yol Haritası: Modern QA mühendisi olmayı öğrenin",
+      "description": "Modern QA ile geliştirme yapmak için topluluk odaklı, makaleler, kaynaklar, kılavuzlar, mülakat soruları, testler. Bu yol haritasında listelenen adımları, becerileri, kaynakları ve kılavuzları izleyerek modern bir QA mühendisi olmayı öğrenin.",
       "keywords": [
         "guide to becoming a QA engineer",
         "QA engineer",
@@ -513,13 +590,20 @@
         "skills for QA development",
         "what is QA engineer",
         "QA engineer quiz",
-        "QA engineer interview questions"
+        "QA engineer interview questions",
+        "QA mühendisi",
+        "QA mühendisi yol haritası",
+        "QA mühendisi ol",
+        "QA mühendisi nasıl olunur",
+        "QA nedir",
+        "QA mühendisi kariyer haritası",
+        "QA mühendisi kariyer yol haritası"
       ]
     },
-    "title": "QA Engineer",
-    "description": "Steps to follow in order to become a modern QA Engineer in 2022",
+    "title": "QA Mühendisi",
+    "description": "2022'de modern QA Mühendisi olmak için izlenecek adımlar",
     "featuredTitle": "QA",
-    "featuredDescription": "Step by step guide to becoming a modern QA Engineer in 2022",
+    "featuredDescription": "2022'de modern QA Mühendisi olmak için adım adım kılavuz",
     "isUpcoming": true,
     "featured": true,
     "landingPath": "/roadmaps/111-qa/landscape.md",
