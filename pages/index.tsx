@@ -4,6 +4,7 @@ import {
   Heading,
   SimpleGrid,
   Text,
+  Link,
 } from '@chakra-ui/react';
 import { GlobalHeader } from '../components/global-header';
 import { Footer } from '../components/footer';
@@ -47,6 +48,16 @@ export default function Home(props: HomeProps) {
                 yazilimcininyolharitasi.com
               </Text>{' '}
               yazılım dünyasında kendini geliştirmek isteyen, nereden başlayacağına karar veremeyenlere yol haritalarını seçmelerine ve öğrenmelerine rehberlik etmeye yardımcı olmak için yol haritaları, kılavuzlar, araçlar ve diğer eğitim içeriklerini oluşturmaya yönelik açık kaynaklı bir projedir.
+              <br />
+              Bu proje <Link
+                textDecoration={'underline'}
+                _hover={{ textDecoration: 'none', bg: 'blue.700' }}
+                href='https://twitter.com/kamranahmedse'
+                target='_blank'>Kamran Ahmed</Link>'in geliştirmiş olduğu <Link
+                textDecoration={'underline'}
+                _hover={{ textDecoration: 'none', bg: 'blue.700' }}
+                href='https://roadmap.sh'
+                target='_blank'>roadmap.sh</Link> projesi kullanılarak oluşturulmuştur. Kendilerine ve projeye katkıda bulunan herkese teşekkürlerimizle.
             </Text>
           </Box>
           <SimpleGrid columns={[1, 2, 3]} spacing={['10px', '10px', '15px']}>
